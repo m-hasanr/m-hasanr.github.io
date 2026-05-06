@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-##[UNDER CONSTRUCTION]
+**[UNDER CONSTRUCTION]**
+
+
 I am an **Assistant Professor** at the Institute of Environment and Power Technology (IEPT) at **Khulna University of Engineering & Technology (KUET)**. My work sits at the intersection of thermal-fluid dynamics and computational materials science, with a primary focus on developing sustainable energy solutions and advanced diagnostic technologies.
 
 ## 🔬 Research Focus
