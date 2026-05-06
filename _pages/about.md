@@ -1,4 +1,4 @@
-# Mahmudul Hasan (Romi)
+# Mahmudul Hasan
 
 I am an **Assistant Professor** at the Institute of Environment and Power Technology (IEPT) at **Khulna University of Engineering & Technology (KUET)**[cite: 4, 11]. My work sits at the intersection of thermal-fluid dynamics and computational materials science, with a primary focus on developing sustainable energy solutions and advanced diagnostic technologies[cite: 11, 14].
 
