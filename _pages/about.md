@@ -19,7 +19,7 @@ My research journey began with experimental thermofluids, specifically investiga
 *   **Tools:** LaTeX (Beamer), Linux (Distro hopping and system configuration).
 
 ## ☕ Beyond the Lab
-When I'm not running simulations, I am an avid Linux enthusiast with over 15 years of experience. I also have a keen interest in high-fidelity audio (IEMs and DACs) and enjoy exploring the psychological depths of literature and cinema. A reading list of my non-academic books and personal recommendations can be found here.
+When I'm not running simulations, I am an avid reader and Linux enthusiast with over 15 years of experience. I also have a keen interest in high-fidelity audio (IEMs and DACs) and enjoy exploring the psychological depths of literature and cinema. A reading list of my non-academic books and personal recommendations can be found here.
 
 ---
-[LinkedIn](https://www.linkedin.com/in/mhasanr/) | [University Profile](http://www.kuet.ac.bd/IEPT/mhasan/)[cite: 4, 11]
+[LinkedIn](https://www.linkedin.com/in/mhasanr/) | [University Profile](http://www.kuet.ac.bd/IEPT/mhasan/)
