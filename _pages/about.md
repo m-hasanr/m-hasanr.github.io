@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Mahmudul Hasan
 
 I am an **Assistant Professor** at the Institute of Environment and Power Technology (IEPT) at **Khulna University of Engineering & Technology (KUET)**. My work sits at the intersection of thermal-fluid dynamics and computational materials science, with a primary focus on developing sustainable energy solutions and advanced diagnostic technologies.
