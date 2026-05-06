@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ProfilePhoto.png"
   name             : "Mahmudul Hasan"
   pronouns         : # example: "he/him"  
   bio              : "Academic and Researcher at KUET with expertise in computational modeling and sustainable engineering. Utilizing MD simulations and open-source tools to explore the mechanical properties of next-generation materials"
