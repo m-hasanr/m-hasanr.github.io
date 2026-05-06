@@ -1,9 +1,14 @@
 ---
-title: "Molecular Dynamics Study on the Influence of Strain Rate, Temperature, and Defect Density on the Mechanical Properties of Nb2C MXene"
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/2025-nb2c-mxene
-date: 2025-01-01
-venue: 'Modelling and Simulation in Material Science and Engineering'
-paperurl: 'https://doi.org/10.1088/1361-651X/ad7a3b'
-citation: 'Rahman, Md. A., <b>Hasan, M.</b>, Islam, J., Islam, Md. S., and Sajal W. R. (2025). "Molecular Dynamics Study on the Influence of Strain Rate, Temperature, and Defect Density on the Mechanical Properties of Nb2C MXene." <i>Modelling and Simulation in Material Science and Engineering</i>, 33, p. 075011.'
+category: manuscripts
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
