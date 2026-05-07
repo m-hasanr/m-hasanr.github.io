@@ -23,9 +23,9 @@ My research journey began with experimental thermofluids, specifically investiga
 *   **B.Sc. in Mechanical Engineering** | Khulna University of Engineering & Technology (KUET), 2015
 
 ## 🛠️ Technical Skills
-*   **Simulation & Modeling:** LAMMPS (MD), CASTEP (DFT), SCAPS-1D, COMSOL Multiphysics, OpenFOAM
+*   **Simulation & Modeling:** LAMMPS (MD), SCAPS-1D, COMSOL Multiphysics, OpenFOAM
 *   **Programming:** Python (Data analysis and simulation frameworks), C++.
-*   **Tools:** LaTeX (Beamer), Linux (Distro hopping and system configuration).
+*   **Tools:** LaTeX, Linux.
 
 ## ☕ Beyond the Lab
 When I'm not running simulations, I am an avid reader and Linux enthusiast with over 15 years of experience. I also have a keen interest in high-fidelity audio (IEMs and DACs) and enjoy exploring the psychological depths of literature and cinema. A reading list of my non-academic books and personal recommendations can be found here.
