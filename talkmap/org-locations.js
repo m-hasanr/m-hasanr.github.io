@@ -15,8 +15,8 @@ var addressPoints = [
     89.2852741
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "LAMMPS: Thermal conductivity by EMD<br />KUET; Khulna, Bangladesh",
+    22.9372087,
+    89.2852741
   ]
 ];
