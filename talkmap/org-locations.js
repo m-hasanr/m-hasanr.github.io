@@ -5,9 +5,9 @@ var addressPoints = [
     89.2852741
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Computational Fluid Dynamics with OpenFOAM<br />Institute of Environment and Power Technology; Khulna, Bangladesh",
+    22.9372087,
+    89.2852741
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
